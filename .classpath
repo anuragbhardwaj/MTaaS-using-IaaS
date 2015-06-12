@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_45]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/openstack"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/cloudfiles-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/cloudfiles-uk-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-blobstore-1.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-bouncycastle-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-compute-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-core-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-loadbalancer-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-okhttp-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-scriptbuilder-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-sshj-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/mysql-connector-java-5.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/openstack-cinder-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/openstack-common-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/openstack-keystone-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/openstack-nova-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/openstack-swift-1.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/openstack-trove-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-cloudblockstorage-uk-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-cloudblockstorage-us-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-clouddatabases-uk-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-clouddns-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-clouddns-uk-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-cloudidentity-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-cloudloadbalancers-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-cloudloadbalancers-uk-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/rackspace-cloudservers-uk-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/guice-3.0.jar/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/.m2/repository/com/google/guava/guava/15.0/guava-15.0.jar" sourcepath="/Users/anuragbhardwaj/.m2/repository/com/google/guava/guava/15.0/guava-15.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.google.guava"/>
+			<attribute name="maven.artifactId" value="guava"/>
+			<attribute name="maven.version" value="15.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Downloads/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/Lib/jclouds-slf4j-1.7.1.jar" sourcepath="/Users/anuragbhardwaj/.m2/repository/org/apache/jclouds/driver/jclouds-slf4j/1.7.1/jclouds-slf4j-1.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/jars/aws-java-sdk-1.0.12.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/jars/org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/jars/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/jars/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragbhardwaj/Desktop/jars/commons-vfs2-2.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
